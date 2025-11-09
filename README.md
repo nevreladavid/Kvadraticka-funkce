@@ -1,0 +1,1 @@
+# Kvadraticka-funkce
